@@ -22,6 +22,7 @@
     justify-content: space-between;
     align-items: center;
 }
+
 .header .header__content {
     margin: 35px 0 25px;
     color: #fff; 
@@ -141,6 +142,7 @@
     padding-left: 8px;
     border-left: 1px dashed #DEE2ED;
 }
+
 .footer {
     background-color: #0c5485;
     padding: 15px 0;
@@ -169,6 +171,7 @@
     transition-property: color, transform;
     transition-duration: 1s;
 }
+
 .copyright a:hover {
     color: forestgreen;
     transform: scale(1.2);
